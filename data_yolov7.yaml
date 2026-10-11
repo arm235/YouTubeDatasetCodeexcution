@@ -1,0 +1,8 @@
+train: C:/Users/Aarati/PycharmProjects/YouTubeDataset/datasets/train/images
+val: C:/Users/Aarati/PycharmProjects/YouTubeDataset/datasets/valid/images
+test: C:/Users/Aarati/PycharmProjects/YouTubeDataset/datasets/test/images
+nc: 3
+names:
+- Dozer
+- DumpTruck
+- Excavator
